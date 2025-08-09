@@ -55,7 +55,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/powerbi-dashboards.git
+git clone(https://github.com/priyasaparia/chocolates_sales_dashbord.git)
 Open any .pbix file in Power BI Desktop.
 
 Interact with the visuals using filters and slicers.
